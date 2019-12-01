@@ -11,7 +11,10 @@ It's time to begin writing your own queries! In this first coding exercise, you 
 - Return a list of unique countries using DISTINCT. Give the results an alias of unique_country.
 
 ### Sample Database
-<img src="D:\semester_3_4\github\img\exp1.PNG" alt= "kucing"  >
+<selection>
+    <img src="D:\semester_3_4\github\images\exp1.PNG" alt= "DataBase"  >
+</selection>
+
 ### Query given as the solution:
 <html>   
     <section>
