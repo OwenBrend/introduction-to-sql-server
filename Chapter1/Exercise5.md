@@ -32,10 +32,8 @@ order by
         </pre>
     </section>
     
-    <section>
-        <pre>
-        <code>
-    -- Select the top 20 rows from description, nerc_region and event_date
+   <section>
+    <pre><code>-- Select the top 20 rows from description, nerc_region and event_date
 SELECT 
   TOP 20 description,
   nerc_region,
@@ -48,8 +46,6 @@ ORDER BY
     nerc_region,
     affected_customers,
     event_date desc;
-  
-        </code>
-        </pre>
-    </section>
+  </code></pre>
+  </section>  
 </html>
