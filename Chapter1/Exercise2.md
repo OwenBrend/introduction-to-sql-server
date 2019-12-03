@@ -11,8 +11,7 @@ After selecting columns, you'll also practice renaming columns, and limiting the
 - Return a list of unique countries using DISTINCT. Give the results an alias of unique_country.
 
 ### Sample Database
-<img src="https://thumbs2.imgbox.com/72/c7/Behc5928_t.png" alt="image host"/>
-
+<img src="https://images2.imgbox.com/7b/bf/F4vHrpJV_o.png" alt="image host"/>
 
 
 ### Query given as the solution:
