@@ -9,14 +9,13 @@ It's time to begin writing your own queries! In this first coding exercise, you 
 - Amend your query to return the points column instead of the country column.
 - Use TOP to change the existing query so that only the first 50 rows are returned.
 - Return a list of unique countries using DISTINCT. Give the results an alias of unique_country.
-
+ 
 ### Sample Database
-<selection>
-    <img src="D:\semester_3_4\github\images\exp1.PNG" alt= "DataBase"  >
-</selection>
+
 
 ### Query given as the solution:
-<html>   
+<html>  
+    <img src="https://images2.imgbox.com/8c/d0/j9UmKidA_o.png" alt="Database" width="1000" >
     <section>
     <pre><code>
 -- SELECT the country column FROM the eurovision table
@@ -45,6 +44,9 @@ SELECT
 FROM 
   eurovision;</code></pre>
   </section>  
+    
 </html>
+
+
 
 
