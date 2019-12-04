@@ -24,7 +24,7 @@ WHERE
   </section>  
   <section>
     <pre><code>-- Retrieve all columns
-SELECT
+SELECT*
 FROM 
   grid 
   -- Return rows where demand_loss_mw is not missing or unknown   
