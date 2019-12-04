@@ -9,6 +9,7 @@ First, let's get familiar with the data.
 - Order the results by artist and release_year.
 
 ### Sample Database
+<img src="https://images2.imgbox.com/ae/fe/vNEFB54F_o.png" alt="image host"/>
 
 ### Query Gives As The Solutions
 <section>
