@@ -11,11 +11,11 @@ It's time to begin writing your own queries! In this first coding exercise, you 
 - Return a list of unique countries using DISTINCT. Give the results an alias of unique_country.
  
 ### Sample Database
-
+<img src="https://images2.imgbox.com/8c/d0/j9UmKidA_o.png" alt="Database" width="1000" >
 
 ### Query given as the solution:
 <html>  
-    <img src="https://images2.imgbox.com/8c/d0/j9UmKidA_o.png" alt="Database" width="1000" >
+    
     <section>
     <pre><code>
 -- SELECT the country column FROM the eurovision table
