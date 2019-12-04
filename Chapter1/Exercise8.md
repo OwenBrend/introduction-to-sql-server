@@ -9,11 +9,12 @@ In this exercise, you'll practice filtering for NULL values, excluding them from
 
 ### Sample Database
 <img src="https://images2.imgbox.com/19/9b/lZ6ICwsF_o.png" alt="image host"/>
+
 ### Query given as the solution:
+
 <section>
     <pre><code>-- Retrieve all columns
-SELECT 
-  *
+SELECT* 
 FROM 
   grid 
   -- Return only rows where demand_loss_mw is missing or unknown  
@@ -23,8 +24,7 @@ WHERE
   </section>  
   <section>
     <pre><code>-- Retrieve all columns
-SELECT 
-  * 
+SELECT
 FROM 
   grid 
   -- Return rows where demand_loss_mw is not missing or unknown   
