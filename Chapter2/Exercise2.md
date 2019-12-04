@@ -11,6 +11,8 @@ You'll start by obtaining overall sums, focusing specifically on the 'MRO' regio
 
 ### Sample Database
 <img src="https://images2.imgbox.com/56/fd/y0pb4YPD_o.png" alt="image host"/>
+
+
 ### Query Given As The Solutions
 <section>
     <pre><code>
